@@ -1,2 +1,2 @@
 # mtsc
-ost ticket config ux frontend backendhhh
+ost ticket config ux frontend backendhhhedded
